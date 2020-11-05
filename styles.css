@@ -32,8 +32,8 @@ header>h1{
     background-color: khaki;
 }
 
-.content img{
-    width: 200px;
+.content>img{
+    width: 100px;
     float: right;
 }
 
@@ -48,6 +48,10 @@ header>h1{
 
 .flex-item {
     padding: 5px;
+    width: 200px;
+}
+
+.flex-item>img{
     width: 200px;
 }
 
